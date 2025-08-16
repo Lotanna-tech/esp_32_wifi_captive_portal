@@ -1,38 +1,36 @@
-ESP32 Wi-Fi Captive Portal
+# 🚀 ESP32 Wi-Fi Captive Portal
 
-Description:
-This project implements a Wi-Fi captive portal on the ESP32. It allows users to connect to the ESP32’s soft AP, access a web UI, and input Wi-Fi credentials. Credentials are stored in NVS, and the device can fallback to AP mode if it fails to connect.
+**Turn your ESP32 into a smart Wi-Fi setup hero!**  
 
-Features
+Imagine powering up your ESP32 and instantly having a **friendly web portal** pop up where you can configure Wi-Fi—no serial monitor, no hard-coded credentials. This project does exactly that. Perfect for IoT devices, smart home projects, or just showing off your embedded skills!  
 
-Soft AP mode with DHCP server
+---
 
-Captive portal web interface for SSID and password
+## 🌟 Features
+- **Soft AP Mode:** The ESP32 creates its own Wi-Fi network.  
+- **Captive Portal Web UI:** Easy-to-use browser interface to enter your Wi-Fi SSID and password.  
+- **Persistent Storage:** Credentials are saved in NVS, so you don’t have to re-enter them every time.  
+- **Automatic Fallback:** If Wi-Fi fails, the ESP32 reverts to AP mode, keeping you in control.  
+- **Sleek UI:** Responsive HTML/CSS with password visibility toggle for convenience.  
+- **Portfolio-Ready:** Neat, fully functional, and perfect to show off your embedded systems skills.  
 
-Credentials saved to NVS for persistent storage
+---
 
-Fallback to AP mode on connection failure
+## 🛠 Hardware
+- **ESP32 Dev Board** (any variant)  
+- Optional: OLED, sensors, or other peripherals for extended projects  
 
-Simple and responsive HTML/CSS UI
+---
 
-Password visibility toggle on the form
+## 💻 Software
+- **ESP-IDF v5.x**  
+- **FreeRTOS** (built into ESP-IDF)  
+- **HTTP Server Component** (`esp_http_server`)  
+- **NVS** for storing Wi-Fi credentials securely  
 
-Hardware
+---
 
-ESP32 Development Board
-
-Optional: OLED, sensors, or additional modules depending on your project extension
-
-Software
-
-ESP-IDF v5.x
-
-FreeRTOS (built-in with ESP-IDF)
-
-HTTP Server component (esp_http_server)
-
-NVS for storing Wi-Fi credentials
-
-How to Use
-
-Flash the firmware to ESP32:
+## ⚡ How to Use
+1. Flash the firmware to your ESP32:  
+   ```bash
+   idf.py flash monitor
