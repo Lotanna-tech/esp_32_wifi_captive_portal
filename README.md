@@ -12,13 +12,11 @@ Imagine powering up your ESP32 and instantly having a **friendly web portal** po
 - **Persistent Storage:** Credentials are saved in NVS, so you don’t have to re-enter them every time.  
 - **Automatic Fallback:** If Wi-Fi fails, the ESP32 reverts to AP mode, keeping you in control.  
 - **Sleek UI:** Responsive HTML/CSS with password visibility toggle for convenience.  
-- **Portfolio-Ready:** Neat, fully functional, and perfect to show off your embedded systems skills.  
 
 ---
 
 ## 🛠 Hardware
 - **ESP32 Dev Board** (any variant)  
-- Optional: OLED, sensors, or other peripherals for extended projects  
 
 ---
 
