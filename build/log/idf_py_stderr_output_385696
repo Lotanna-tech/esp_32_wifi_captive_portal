@@ -1,0 +1,2303 @@
+[0;33m--- esp-idf-monitor 1.6.0 on /dev/ttyUSB0 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+[0m
+[0;33m--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+[0m
+[0;33m--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+[0m
+[0;33m--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+[0m
+[0;33m--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+[0m
+[0;33m--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+[0m
+[0;33m--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+[0m
+[0;33m--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+[0m
+[0;33m--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+[0m
+[0;33m--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+[0m
+[0;33m--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m.[0m[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+[0m
+[0;33m--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+[0m
+[0;33m--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m.[0m[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+[0m
+[0;33m--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+[0m
+[0;33m--- 0x40081b5d: panic_abort at /home/lotanna/esp/esp-idf/components/esp_system/panic.c:454
+--- 0x400897e1: esp_system_abort at /home/lotanna/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x40091555: abort at /home/lotanna/esp/esp-idf/components/newlib/abort.c:38
+--- 0x400897d7: _esp_error_check_failed at /home/lotanna/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d86ce: ap_init at /home/lotanna/Desktop/ap_mode/main/wifi.c:49 (discriminator 1)
+--- 0x400d811e: app_main at /home/lotanna/Desktop/ap_mode/main/main.c:24
+--- 0x40159d87: main_task at /home/lotanna/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x4008a285: vPortTaskWrapper at /home/lotanna/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m.[0m[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0m

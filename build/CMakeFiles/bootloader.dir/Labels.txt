@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/lotanna/Desktop/ap_mode/build/CMakeFiles/bootloader
+/home/lotanna/Desktop/ap_mode/build/CMakeFiles/bootloader.rule
+/home/lotanna/Desktop/ap_mode/build/CMakeFiles/bootloader-complete.rule
+/home/lotanna/Desktop/ap_mode/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/lotanna/Desktop/ap_mode/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/lotanna/Desktop/ap_mode/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/lotanna/Desktop/ap_mode/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/lotanna/Desktop/ap_mode/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/lotanna/Desktop/ap_mode/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/lotanna/Desktop/ap_mode/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
